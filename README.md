@@ -9,11 +9,14 @@ Front-end web development is the practice of converting data to a graphical inte
 
 <h2>Languages</h2>
 <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=orange" />
+<br>
 <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=CSS3&logoColor=lightblue" />
+<br>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" />
 
 <h2>Tools</h2>
 <img src="https://img.shields.io/badge/Visual Studio-gray?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91" />
+<br>
 <img src="https://img.shields.io/badge/Visual Studio Code-gray?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC" />
 
 
