@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-gray?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC" />
 
 
-![Статистика GitHub](https://github-readme-stats.vercel.ap... &theme=radical)
 
 
 
